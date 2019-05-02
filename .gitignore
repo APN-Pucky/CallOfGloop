@@ -16,23 +16,6 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-cookie*
-TUM.jar
-TUM-new.jar
-TUM-old.jar
-TUM-enc.jar
-*.sh
-*.exe
-*.csv
-*.tmp
-config.json
-start.bat
-tuo
-tuo.json
-tum.json
-data/
-README.txt
-*.png
 
 # External tool builders
 .externalToolBuilders/
