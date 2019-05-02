@@ -5,6 +5,10 @@ You can run CallofGloop.jar or Main.java to start. A menu will show options for 
 
 ![](https://raw.githubusercontent.com/APN-Pucky/CallOfGloop/master/src/de/neuwirthinformatik/Alexander/CoG/resources/example.png)
 
+### Controls
+
 Moving: WASD
+
 Shooting: Left Mouse
+
 Exit: ESC
